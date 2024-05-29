@@ -29,7 +29,7 @@ export default function Header() {
           </Link>
         </ul>
       </nav>
-      <Link target="_blank" href="https://github.com/DalphanDev">
+      <Link target="_blank" href="https://github.com/Arbittrary">
         <Image
           className="top-2 invert mr-8 w-12 transform transition hover:scale-110 "
           src={GithubLogo}
