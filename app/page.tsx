@@ -7,9 +7,9 @@ export default function Home() {
       <Navbar />
       <div className="mx-auto max-w-screen-xl flex flex-col items-center md:flex-row md:items-start justify-between my-8 space-x-8 px-8">
   <div className="flex flex-col space-y-8 flex-grow">
-    <h1 className="font-bold text-5xl">Hey! I'm Jorge Ortiz, a Full-Stack Web Developer & IT Professional</h1>
+    <h1 className="font-bold text-5xl">Hey! I&apos;m Jorge Ortiz, a Full-Stack Web Developer & IT Professional</h1>
     <h2 className="font-medium text-xl">
-      I'm a Full Stack Web Developer specializing in:
+      I&apos;m a Full Stack Web Developer specializing in:
     </h2>
     <ul className="list-disc list-inside font-normal text-lg">
       <li>HTML/CSS/JS</li>
