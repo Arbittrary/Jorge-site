@@ -32,10 +32,10 @@ export const metadata: Metadata = {
   // metadataBase: "https://jorge-site.vercel.app/" as URL,
   twitter: {
     card: "summary_large_image",
-    title: "Dalphan | Thomas Allred",
-    description: "Hire Dalphan (Thomas Allred) for your next project.",
+    title: "Jorge Ortiz",
+    description: "Hire Jorge Ortiz for your next project.",
     siteId: "4821638103",
-    creator: "@DalphanDev",
+    creator: "@Arbittrary",
     creatorId: "4821638103",
     images: ["https://dalphan-site.vercel.app/logo.png"],
   },
