@@ -22,10 +22,20 @@ export default function Header() {
       </Link>
       <nav className="flex justify-center items-center w-full py-5">
         <ul className="flex space-x-10">
+          <Link href="/">
+            <li className= "hover:scale-110 transform transition">
+              <p className="font-bold text-2xl">Home</p>
+            </li>
+          </Link>
           <Link href="/contact">
             <li className="hover:scale-110 transform transition">
-              <p className="font-bold text-2xl">Contact</p>
+              <p className="font-bold text-2xl">About</p>
             </li>
+          </Link>
+          <Link href="/projects/jorge_projects">
+          <li className= "hover:scale-110 transform transition">
+            <p className="font-bold text-2xl">Projects</p>
+          </li>
           </Link>
         </ul>
       </nav>

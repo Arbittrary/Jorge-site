@@ -9,14 +9,14 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Homepage \u2014 Dalphan | Thomas Allred",
-  description: "Hire Dalphan (Thomas Allred) for your next project.",
+  title: "Homepage \u2014 Jorge Ortiz",
+  description: "Hire Jorge Ortiz for your next project.",
   generator: "Next.js",
-  applicationName: "Dalphan | Thomas Allred",
+  applicationName: "Jorge Ortiz",
   referrer: "origin-when-cross-origin",
   keywords: [
-    "Dalphan",
-    "Thomas Allred",
+    "Web Dev",
+    "Jorge Ortiz",
     "Developer",
     "Freelance",
     "Hire",
@@ -26,10 +26,10 @@ export const metadata: Metadata = {
     "React",
     "Node",
   ],
-  authors: [{ name: "Thomas Allred" }, { name: "Dalphan" }],
-  creator: "Dalphan | Thomas Allred",
-  publisher: "Dalphan | Thomas Allred",
-  // metadataBase: "https://dalphan-site.vercel.app" as URL,
+  authors: [{ name: "Jorge Ortiz" }, { name: "Dalphan" }],
+  creator: "Jorge Ortiz",
+  publisher: "Jorge Ortiz",
+  // metadataBase: "https://jorge-site.vercel.app/" as URL,
   twitter: {
     card: "summary_large_image",
     title: "Dalphan | Thomas Allred",
